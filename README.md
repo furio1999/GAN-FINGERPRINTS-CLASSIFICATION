@@ -1,2 +1,2 @@
-# vision
-#this folder contains a bunch of files and exercises for computer vision classes
+# Computer Vision
+#this folder contains various projects on Image Segmentetion and Generative Models
