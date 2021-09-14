@@ -1,4 +1,4 @@
-# GAN FingerPrints
+# GAN FINGERPRINTS
 
 Identification and detection of GAN fingerprints.
 
