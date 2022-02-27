@@ -1,6 +1,6 @@
 # GAN FINGERPRINTS CLASSIFICATION
 
-Project for [Vision and Perception Course](https://sites.google.com/diag.uniroma1.it/ireneamerini/teaching?authuser=0), Univ. La Sapienza Roma, 2021.
+Project for [Vision and Perception Course](https://sites.google.com/diag.uniroma1.it/ireneamerini/teaching?authuser=0), Sapienza University of Rome, 2021.
 
 <a href="https://www.dis.uniroma1.it/"><img src="http://www.dis.uniroma1.it/sites/default/files/marchio%20logo%20eng%20jpg.jpg" width="500"></a>
 
@@ -9,7 +9,7 @@ Project for [Vision and Perception Course](https://sites.google.com/diag.uniroma
 This is our implementation of the paper [Attributing Fake Images to GANs: Learning and Analyzing GAN Fingerprints](https://arxiv.org/pdf/1811.08180.pdf)
 
 We aimed to reproduce their results performing experiments on four different CNN architectures to classify a GAN-generated image. 
-Type of GANs: CramerGAN, MMDGAN, PROGAN, SNGAN
+Type of GANs: CramerGAN, MMDGAN, PROGAN, SNGAN.
 
 ## Contributors
 * Fulvio Sanguigni <a href= "https://github.com/furio1999"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/1024px-Octicons-mark-github.svg.png" width="30"></a>
